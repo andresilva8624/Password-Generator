@@ -18,7 +18,7 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
-[Deployed Site](https://andresilva8624.github.io/password-generator/)
+[Deployed Site](https://andresilva8624.github.io/Password-Generator/)
 
 ![gif of deployed site](./assets/images/website.gif)
    
