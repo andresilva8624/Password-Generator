@@ -101,7 +101,7 @@ function generatePassword() {
   console.log(length);
 
   if (length < 8 || length > 128) {
-    alert("Password needs to be of valid length");
+    alert("Password needs to have minimum of 8 charaters.");
     return;
   }
   var hasNumbers = confirm("Do you want to include numbers in your password?");
